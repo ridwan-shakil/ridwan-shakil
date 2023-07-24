@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/C4D16AQE92CDon3yYyQ/profile-displaybackgroundimage-shrink_350_1400/0/1627402154017?e=1695859200&v=beta&t=H3aCPnwzKbP_o0EWD_4uKsP8wwVYWIivvmQ8c7tTX_I)
+
 ### Hi there 👋, I am MD.Ridwan
 #### WordPress Developer
-![WoprPress Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![WoprPress Developer](https://media.licdn.com/dms/image/C4D16AQE92CDon3yYyQ/profile-displaybackgroundimage-shrink_350_1400/0/1627402154017?e=1695859200&v=beta&t=H3aCPnwzKbP_o0EWD_4uKsP8wwVYWIivvmQ8c7tTX_I)
 
 I'm Self-Learner | Self-Motivated Programmer | WordPress Developer
  I love turning ideas into fully functional and aesthetically pleasing websites.
