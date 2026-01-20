@@ -18,19 +18,19 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 🧩 Featured Projects
-**🧠 Plugmint – Draggable Admin Notes**  
+**🧠 [Plugmint – Draggable Admin Notes](https://wordpress.org/plugins/plugmint-draggable-notes/)**  
 📌 WordPress.org Plugin  
 - Create draggable notes inside WP Admin  
 - Checklist-based task management  
 - Clean UI & optimized admin scripts  
 
-**📝 Plugmint – Sticky Notes for Posts, Pages & CPTs**  
+**📝 [Plugmint – Sticky Notes for Posts, Pages & CPTs](https://wordpress.org/plugins/plugmint-sticky-notes/)**
 📌 WordPress.org Plugin  
 - Admin-only notes for posts, pages, products & CPTs  
 - Drag & drop note items between notes  
 - Task completion tracking with checkmarks  
 
-**🛡 Order Shield Pro (Client Project)**  
+**🛡 [Order Shield Pro](https://dev-mdridwan.pantheonsite.io)  (Client Project)**  
 - Advanced WooCommerce order protection  
 - Incomplete / abandoned order tracking  
 - Duplicate order blocking (IP, email, phone, device)  
@@ -39,25 +39,29 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 🛠 Technical Skills
-**Languages & Markup**  
-- PHP, MySQL  
+
+**Programming Languages & Markup**
+- PHP, jQuery, MySQL, javascript(Basic)
 - HTML5, CSS3  
 
-**WordPress & WooCommerce**  
-- Plugin Development (OOP, Namespaces)  
-- WooCommerce Hooks & Custom Logic  
-- Settings API, Options API, Meta API  
-- Custom DB Tables & WP_List_Table  
+**WordPress & WooCommerce Development**
+- Custom WordPress Plugin Development (OOP, Namespaces)
+- WooCommerce Hooks, Filters & Custom Business Logic
+- Settings API, Options API & Meta API
+- Custom Database Tables & `WP_List_Table`
+- Admin-focused features & UI enhancements
 
-**Frontend (WordPress-focused)**  
-- jQuery  
-- Admin UI/UX optimization  
+**Tools & Workflow**
+- Git & GitHub
+- GitHub Actions (basic CI workflows)
+- Composer & npm (plugin build & dependency management)
 
-**Development Practices**  
-- WordPress Coding Standards  
-- Secure data handling & sanitization  
-- Performance-focused architecture  
-- WP_DEBUG-clean code  
+**Development Best Practices**
+- WordPress Coding Standards (PHPCS, WPCS)
+- Secure data handling (nonces, sanitization, escaping, validation)
+- Performance-focused, lightweight architecture
+- `WP_DEBUG`-clean code (no notices or warnings)
+
 
 ---
 
@@ -65,7 +69,7 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 - Advanced WooCommerce plugin development  
 - Plugin architecture for scalability  
 - License systems & update servers  
-- Gutenberg & modern WooCommerce compatibility  
+- Modern WooCommerce compatibility  
 
 ---
 
