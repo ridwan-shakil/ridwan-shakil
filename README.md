@@ -70,12 +70,13 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 🌐 Connect With Me
-[!GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ridwan-shakil)
-[!Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/MD.RidwanShakil)
-[!Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Ridwan64272185)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ridwan-shakil)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/MD.RidwanShakil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ridwan64272185)
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ridwan-shakil)
+![GitHub Streak](https://streak-stats.demolab.com?user=ridwan-shakil&theme=default)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan-shakil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
