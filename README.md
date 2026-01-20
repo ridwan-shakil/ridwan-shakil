@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m MD. Ridwan  
-#### WordPress Plugin Developer | WooCommerce Specialist
+#### WordPress Plugin Developer 
 
 I’m a **self-taught WordPress Plugin Developer** with hands-on experience building **production-ready plugins**, including plugins published on the **WordPress.org repository** and custom solutions for clients.
 
@@ -70,9 +70,9 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 🌐 Connect With Me
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ridwan-shakil)
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/MD.RidwanShakil)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Ridwan64272185)
+![[GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ridwan-shakil)
+![[Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/MD.RidwanShakil)
+![[Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Ridwan64272185)
 
 ---
 
