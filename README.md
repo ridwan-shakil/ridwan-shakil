@@ -18,14 +18,12 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 🧩 Featured Projects
-**🧠 [Plugmint – Draggable Admin Notes](https://wordpress.org/plugins/plugmint-draggable-notes/)**  
-📌 WordPress.org Plugin  
+**🧠 [Plugmint – Draggable Admin Notes](https://wordpress.org/plugins/plugmint-draggable-notes/)**  📌 WordPress.org Plugin  
 - Create draggable notes inside WP Admin  
 - Checklist-based task management  
 - Clean UI & optimized admin scripts  
 
-**📝 [Plugmint – Sticky Notes for Posts, Pages & CPTs](https://wordpress.org/plugins/plugmint-sticky-notes/)**
-📌 WordPress.org Plugin  
+**📝 [Plugmint – Sticky Notes for Posts, Pages & CPTs](https://wordpress.org/plugins/plugmint-sticky-notes/)**  📌 WordPress.org Plugin  
 - Admin-only notes for posts, pages, products & CPTs  
 - Drag & drop note items between notes  
 - Task completion tracking with checkmarks  
