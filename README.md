@@ -75,9 +75,13 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ridwan-shakil)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mdridwan.kesug.com)
+[![WordPress](https://img.shields.io/badge/Wordpress-1877F2?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/ridwan25/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/MD.RidwanShakil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ridwan64272185)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1877F2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdridwansakil/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ridwan-shakil)
+
+
 
 ---
 
