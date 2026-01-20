@@ -77,6 +77,8 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ridwan-shakil&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridwan-shakil&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan-shakil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan-shakil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
