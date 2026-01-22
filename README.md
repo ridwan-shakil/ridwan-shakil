@@ -1,27 +1,3 @@
-<div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="[https://marufalaslam.github.io/test/git-banner.png](https://github.com/ridwan-shakil/Assets/blob/main/Wordpress%20custom%20plugin%20development.png)"/>
-</div>
-
-<hr>
-
-
-<div align="center">
-  <a href="https://app.daily.dev/webdevmaruf"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
-  <a href="https://leetcode.com/maruf42">
-  <img src="https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
-  </a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
 ### Hi there 👋, I’m MD. Ridwan  
 #### WordPress Plugin Developer 
 
