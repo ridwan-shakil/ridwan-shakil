@@ -82,7 +82,3 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ridwan-shakil)
 
 
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridwan-shakil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
