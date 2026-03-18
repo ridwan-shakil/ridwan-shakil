@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m MD. Ridwan  
-#### WordPress Plugin Developer 
+#### WordPress Plugin Developer & SQA enthusiast 
 
 I’m a **self-taught WordPress Plugin Developer** with hands-on experience building **production-ready plugins**, including plugins published on the **WordPress.org repository** and custom solutions for clients.
 
@@ -66,9 +66,8 @@ I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-f
 ---
 
 ### 📌 Currently Focused On
-- Advanced WooCommerce plugin development  
+- SQA for ensuring reliable wp plugins 
 - Plugin architecture for scalability  
-- License systems & update servers  
 - Modern WooCommerce compatibility  
 
 ---
