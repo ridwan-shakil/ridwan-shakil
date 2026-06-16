@@ -1,83 +1,108 @@
-### Hi there 👋, I’m MD. Ridwan  
-#### WordPress Plugin Developer & SQA enthusiast 
+# MD. Ridwan  
+### WordPress Developer | Website Customization & Plugin Development
 
-I’m a **self-taught WordPress Plugin Developer** with hands-on experience building **production-ready plugins**, including plugins published on the **WordPress.org repository** and custom solutions for clients.
+I build and customize WordPress websites for businesses, focusing on **scalable architecture, performance optimization, WooCommerce solutions, and secure implementations**.
 
-I specialize in **WordPress plugin architecture, WooCommerce extensions, admin-focused tools, and performance-friendly development**, following WordPress coding standards and best practices.
+I work with agencies and clients to deliver **production-ready WordPress solutions**, including custom plugins, complex WooCommerce logic, SEO-ready structures, and optimized frontend/backend performance.
 
----
-
-### 🔹 What I Do
-- Custom **WordPress plugin development** (OOP & scalable architecture)
-- **WooCommerce feature extensions** & order logic
-- Admin-side productivity plugins
-- Custom database tables & WP_List_Table implementations
-- Secure AJAX handling, nonces & capability checks
-- Lightweight, optimized, and standards-compliant code
+Currently seeking opportunities in **WordPress agencies and remote teams** where I can contribute to real client projects and production environments.
 
 ---
 
-### 🧩 Featured Projects
-**🧠 [Plugmint – Draggable Admin Notes](https://wordpress.org/plugins/plugmint-draggable-notes/)**  📌 WordPress.org Plugin  
-- Create draggable notes inside WP Admin  
-- Checklist-based task management  
-- Clean UI & optimized admin scripts
-- Task completion tracking with checkmarks  
+## 🧭 What I Work On
 
-**📝 [Plugmint – Sticky Notes for Posts, Pages & CPTs](https://wordpress.org/plugins/plugmint-sticky-notes/)**  📌 WordPress.org Plugin  
-- Admin-only notes for posts, pages, products & CPTs  
-- See note preview on all posts page
-- Settings page to xclude notes from any CPT's
-
-
-**🛡 [Order Shield Pro](https://dev-mdridwan.pantheonsite.io)  (Client Project)**  
-- Advanced WooCommerce order protection  
-- Incomplete / abandoned order tracking  
-- Duplicate order blocking (IP, email, phone, device)  
-- Custom admin panels & order rules  
+- Custom WordPress development (themes, Elementor v4 workflows)
+- Figma / XD / PSD to pixel-perfect WordPress conversion
+- OOP-based WordPress plugin development (intermediate level)
+- WooCommerce store setup and customization
+- Fully responsive, fluid, and scalable design systems
+- Performance optimization (Core Web Vitals, caching, query tuning)
+- Technical SEO implementation (site structure, on-page optimization readiness)
+- WordPress security hardening and vulnerability fixes
+- Malware removal and hacked site recovery
+- Debugging, troubleshooting, and legacy code refactoring
+- Admin workflow automation and custom dashboard enhancements
 
 ---
 
-### 🛠 Technical Skills
+## 🚀 Featured Work
 
-**Programming Languages & Markup**
-- PHP, jQuery, MySQL, javascript(Basic)
-- HTML5, CSS3  
-
-**WordPress & WooCommerce Development**
-- Custom WordPress Plugin Development (OOP, Namespaces)
-- WooCommerce Hooks, Filters & Custom Business Logic
-- Settings API, Options API & Meta API
-- Custom Database Tables & `WP_List_Table`
-- Admin-focused features & UI enhancements
-
-**Tools & Workflow**
-- Git & GitHub
-- GitHub Actions (basic CI workflows)
-- Composer & npm (plugin build & dependency management)
-
-**Development Best Practices**
-- WordPress Coding Standards (PHPCS, WPCS)
-- Secure data handling (nonces, sanitization, escaping, validation)
-- Performance-focused, lightweight architecture
-- `WP_DEBUG`-clean code (no notices or warnings)
-
+### 🧠 Plugmint – Draggable Admin Notes  
+WordPress.org Plugin  
+- Interactive admin note system with drag-and-drop functionality  
+- Task tracking system inside WordPress dashboard  
+- Optimized UI for admin productivity workflows  
 
 ---
 
-### 📌 Currently Focused On
-- SQA for ensuring reliable wp plugins 
-- Plugin architecture for scalability  
-- Modern WooCommerce compatibility  
+### 📝 Plugmint – Sticky Notes for WordPress Content  
+WordPress.org Plugin  
+- Internal note system for posts, pages, WooCommerce products, and CPTs  
+- Integrated admin listing visibility for faster content management  
+- Configurable settings for post-type control  
 
 ---
 
-### 🌐 Connect With Me
+### 🛡 Order Shield Pro (Client Project)  
+WooCommerce Protection & Order Control System  
+- Advanced order validation and restriction engine  
+- Duplicate order prevention using IP, email, phone, and device fingerprint logic  
+- Custom admin rule builder for business-level order control  
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mdridwan.kesug.com)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/ridwan25/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/MD.RidwanShakil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdridwansakil/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ridwan-shakil)
+---
 
+## 🛠 Technical Stack
 
+### Core Development
+- PHP (WordPress-focused architecture)
+- MySQL (queries, schema handling, optimization)
+- jQuery (admin & frontend interactions)
+- HTML5, CSS3
+- JavaScript (functional understanding)
+
+### WordPress Engineering
+- Plugin development (OOP, namespaces, scalable structure)
+- Theme customization and Elementor development
+- WooCommerce hooks, filters, and checkout logic
+- Settings API, Options API, Meta API
+- WP_List_Table for admin data systems
+
+### Performance, SEO & Security
+- Core Web Vitals optimization (speed, render performance, asset control)
+- Caching strategies and database optimization
+- Technical SEO setup (meta structure, indexing readiness, schema structure awareness)
+- WordPress security hardening (login protection, permissions, vulnerability fixes)
+- Malware detection and recovery workflows
+
+### Development Workflow
+- Git & GitHub version control
+- WP_DEBUG-based debugging workflow
+- Composer for dependency management
+- WordPress coding standards (clean, maintainable, production-safe code)
+
+---
+
+## 🎯 Professional Focus
+
+I focus on building WordPress systems that are:
+
+- Stable under real client traffic
+- Optimized for performance and SEO
+- Secure against common vulnerabilities
+- Easy to maintain and extend
+
+My goal is to work in a **professional WordPress agency environment** contributing to real-world client projects, improving website performance, and delivering scalable solutions.
+
+---
+
+## 📌 Availability
+
+- Open to WordPress Developer roles (Agency / Remote)
+- Available for long-term collaboration
+- Interested in production-level client development work
+
+---
+
+## ⚡ Summary
+
+WordPress Developer focused on **custom development, WooCommerce systems, performance optimization, and secure implementations**, with hands-on experience in real client and plugin projects.
