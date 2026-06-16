@@ -1,4 +1,4 @@
-# WordPress Developer | Custom WordPress Development | Plugin Developer (OOP)
+## WordPress Developer | Custom WordPress Development | Plugin Developer (OOP)
 
 WordPress Developer specializing in custom WordPress website development, plugin development, WooCommerce customization, performance optimization, and secure production-ready implementations.
 
